@@ -741,11 +741,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mert\\Desktop\\Pratikler2\\BookStore\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Mert\\Documents\\GitHub\\.NET2\\BookStore\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\Mert\\Desktop\\Pratikler2\\BookStore\\WebApi\\WebApi.csproj",
+      "projectPath": "C:\\Users\\Mert\\Documents\\GitHub\\.NET2\\BookStore\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\Mert\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mert\\Desktop\\Pratikler2\\BookStore\\WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Mert\\Documents\\GitHub\\.NET2\\BookStore\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mert\\AppData\\Roaming\\NuGet\\NuGet.Config",

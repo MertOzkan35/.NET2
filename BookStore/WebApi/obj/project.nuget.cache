@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9iZlwri2flG3wvE6w8oTmRTki2/ypcK+UyzvsgzzTy4KLOJ36ff1QWCPcOhgx86ut4+7ix5TQpwS+gdvXguYnA==",
+  "dgSpecHash": "bX4YC8/XY27zal/UkOjBGlsLzk4YrLto4Xm0XoJavR9juQ9MjMCQD+PLDp82UEb7odf+tJsK66IczUjLyrC9bQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mert\\Desktop\\Pratikler2\\BookStore\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Mert\\Documents\\GitHub\\.NET2\\BookStore\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mert\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.6\\microsoft.entityframeworkcore.5.0.6.nupkg.sha512",
     "C:\\Users\\Mert\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.6\\microsoft.entityframeworkcore.abstractions.5.0.6.nupkg.sha512",
